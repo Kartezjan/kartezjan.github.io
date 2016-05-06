@@ -108,6 +108,7 @@ ul {
         margin-bottom: 5px;
     }
     &__date {
+		color: $color-date;
         font-size: 1em;
         font-style: italic;
     }
@@ -119,9 +120,6 @@ ul {
             margin-top: 30px;
             margin-bottom: 5px;
         }
-		date {
-		 color: $color-date;
-		}
         p {
 			color: $color-p;
             font-size: 1em;
